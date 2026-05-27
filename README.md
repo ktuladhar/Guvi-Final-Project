@@ -71,7 +71,3 @@ python main.py
 ## Credits
 
 Credits to the original dataset collectors from Kaggle.
-
-## License
-
-[Add appropriate license]

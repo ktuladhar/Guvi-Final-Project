@@ -124,7 +124,3 @@ The project evaluated multiple machine learning models using both Bag of Words (
 ## Credits
 
 Credits to the original dataset collectors from Kaggle.
-
-## License
-
-[Add appropriate license]
